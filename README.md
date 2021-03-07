@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hi!
+## &nbsp;Hi! 😊
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -6,11 +6,6 @@
 🎓 &nbsp;I'm currently working as a web developer.\
 🌱 &nbsp;I'm on track for learning modern tools and technologies.\
 💬 &nbsp;Feel free to reach out to me.
-
-### ⚙️ &nbsp;GitHub Analytics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bslzz&show_icons=true&theme=tokyonight) <br/>
-[![Github](https://img.shields.io/github/followers/bslzz?label=Follow&style=social)](https://github.com/bslzz)
-
 
 ### 🛠 &nbsp;Tech Stack
 
