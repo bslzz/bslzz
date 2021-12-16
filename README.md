@@ -3,7 +3,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop my software skills.\
-🎓 &nbsp;I'm currently working as a web developer.\
 🌱 &nbsp;I'm on track for learning modern tools and technologies.\
 💬 &nbsp;Feel free to reach out to me.
 
